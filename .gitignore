@@ -1,0 +1,4 @@
+*.gz
+*.pkl
+*.jpg
+**/Dataset
