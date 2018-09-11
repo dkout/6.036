@@ -1,0 +1,8 @@
+Initial accuracies:
+
+Training accuracy for perceptron:   0.9593
+Validation accuracy for perceptron: 0.8240
+Training accuracy for average perceptron:   0.9742
+Validation accuracy for average perceptron: 0.8460
+Training accuracy for Pegasos:                     0.9155
+Validation accuracy for Pegasos:                   0.8300
